@@ -1,0 +1,17 @@
+{
+    "name": "tamodaleko/oauth2-yahoo",
+    "type": "library",
+    "description": "Yahoo Provider for OAuth2 Client",
+    "keywords": ["log", "logging"],
+    "homepage": "https://github.com/tamodaleko/oauth2-yahoo",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dejan Prole",
+            "email": "shimids89@gmail.com"
+        }
+    ],
+    "require": {
+        "league/oauth2-client": "^2.0"
+    }
+}
