@@ -12,6 +12,8 @@ class Yahoo extends AbstractProvider
 {
     use BearerAuthorizationTrait;
 
+    const ACCESS_TOKEN_RESOURCE_OWNER_ID = 'xoauth_yahoo_guid';
+
     /**
      * @var string
      */
