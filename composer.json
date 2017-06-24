@@ -2,7 +2,7 @@
     "name": "tamodaleko/oauth2-yahoo",
     "type": "library",
     "description": "Yahoo Provider for OAuth2 Client",
-    "keywords": ["log", "logging"],
+    "keywords": ["authorization", "oauth", "oauth2", "yahoo"],
     "homepage": "https://github.com/tamodaleko/oauth2-yahoo",
     "license": "MIT",
     "authors": [
